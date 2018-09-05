@@ -1,6 +1,6 @@
 # Karat-Gold-Jewelry-System
 
-This project proposal provides an accurate and effective Item Viewing System which will benefit the monitoring of items, lessens the time of gather item description, enhance the level of work, help its processes more reliable and efficient, and provide accuracy and security of data and information. 
+This project provides an accurate and effective Item Viewing System which will benefit the monitoring of items, lessens the time of gather item description, enhance the level of work, help its processes more reliable and efficient, and provide accuracy and security of data and information. 
 
 ## Logging In
 
