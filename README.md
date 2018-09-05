@@ -8,6 +8,6 @@ Before logging in to the system, it will inquire for the user verification. If t
 
 ## Area of the Project
 
-![](Images/ap1.png)
-![](Images/ap2.png)
-![](Images/ap3.png)
+![](images/ap1.png)
+![](images/ap2.png)
+![](images/ap3.png)
